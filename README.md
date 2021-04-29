@@ -5,6 +5,20 @@ Why not start learn C++? This series will take you from a C++ newbie to a C++ pr
 - Each workshop data is stored in the workshop name i.e. Workshop1-Basics
 - The 'data' folder has all resources shared during the sessions, like clusplus books to read more.
 
+# IDEs to use to code
+## Online IDE
+They are many, i have only used the [Online GDB](https://www.onlinegdb.com/online_c++_compiler) with the language set to C++.
+
+## Cross-platfrom
+1. [Code::Blocks](https://www.codeblocks.org/)
+2. [CodeLite](https://codelite.org/)
+3. [Qt Creator](https://www.qt.io/product/development-tools)
+4. And others ...
+
+## Windows Only
+1. [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
+2. [DevC++](https://sourceforge.net/projects/orwelldevcpp/)
+
 # CplusPlus Syntax
 ```
 // This is a single line comment
