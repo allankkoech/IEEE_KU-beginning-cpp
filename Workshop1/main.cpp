@@ -6,7 +6,9 @@ it is used for documenting your code.
 */
 
 #include <iostream>
+// You can have many includes as follows
 #include <string>
+#include <vector>
 
 using namespace std;
 
