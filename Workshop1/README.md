@@ -7,5 +7,10 @@ This workshop introduced you to basics of C++. This includes the origins od C++,
 - Press the play button.
 - Happy Coding!
 
+# Practice Problems
+1. Prompt user to input 2 numbers, save them in variables x,y. Display to the user the sum, multiplication, division, subtraction and remainder values.
+2. Prompt user for their name and respond with a personalized greeting, like 'Hello, John'.
+3. Advanced: How can you mitigate users entering letters when you want numbers?
+
 # Remember
 Practise makes perfect, try many times to solidify your knowlwdge. Even the masters were once students.
